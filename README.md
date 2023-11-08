@@ -12,7 +12,7 @@ x = x + 1;
 
 // fix Ali* error #2 - Y row 2 and 4 are swapped and rows are upside down
 if ((y==2) || (y==4)) {
-  y=6-y;
+  y = 6-y;
 }
 y = 7-y;
 ```
